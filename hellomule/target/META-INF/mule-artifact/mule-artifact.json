@@ -1,0 +1,35 @@
+{
+  "configs": [
+    "hellomule.xml",
+    "global.xml"
+  ],
+  "secureProperties": [
+    "secure.key",
+    "anypoint.platform.client_id",
+    "anypoint.platform.client_secret"
+  ],
+  "redeploymentEnabled": true,
+  "name": "2d03fd2d-c86b-4122-bd7c-d2df5cb8c473:hellomule:1.0.8",
+  "minMuleVersion": "4.4.0",
+  "requiredProduct": "MULE_EE",
+  "classLoaderModelLoaderDescriptor": {
+    "id": "mule",
+    "attributes": {
+      "exportedPackages": [],
+      "exportedResources": [
+        "dev.properties",
+        "dev.secure.properties",
+        "global.xml",
+        "hellomule.xml",
+        "local.properties",
+        "local.secure.properties",
+        "log4j2.xml",
+        "qa.secure.properties"
+      ]
+    }
+  },
+  "bundleDescriptorLoader": {
+    "id": "mule",
+    "attributes": {}
+  }
+}
