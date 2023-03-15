@@ -21,5 +21,23 @@ https://youtu.be/qthiIVKKs00
 Api Design best practices and Applying en Api Mananger
 https://youtu.be/uQR5lJwHujU
 
+Best Practices to design first Api Specification //documentacion
+https://developer.mulesoft.com/tutorials-and-howtos/getting-started/best-practices-first-api-spec/
+
+Build your first API Specification with API Designer
+
+https://youtu.be/PQb5GotSSTc
+https://youtu.be/eLtuhgGvzac
+
+How to configure an HTTPS endpoint in Anypoint Studio
+
+
+How to deploy from Anypoint Studio using Maven
+
+
+
+
+
+
 
 
