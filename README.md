@@ -12,7 +12,9 @@ https://www.youtube.com/watch?v=pyHE35E1q6c
 
 How to secure properties before deployment in Anypoint studio
 https://youtu.be/fKK9592JqdU
+
 https://youtu.be/vE3KzL8h3a8
+
 https://youtu.be/D5L7bj1_Z4M
 
 How to set up Api Autodiscovery in Anypoint studio
